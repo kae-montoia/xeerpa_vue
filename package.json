@@ -1,6 +1,6 @@
 {
   "name": "@kae-montoia/xeerpa_vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect xeerpa facebook and google",
   "main": "index.js",
   "scripts": {
