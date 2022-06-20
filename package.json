@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kae-montoia/xeerpa_vue/issues"
   },
-  "homepage": "https://github.com/kae-montoia/xeerpa_vue#readme"
+  "homepage": "https://github.com/kae-montoia/xeerpa_vue#readme",
+  "publishConfig": {
+    "@kae-montoia:registry": "https://npm.pkg.github.com"
+  }
 }
