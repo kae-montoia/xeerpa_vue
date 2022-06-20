@@ -1,0 +1,19 @@
+{
+  "name": "@kae-montoia/xeerpa_vue",
+  "version": "1.0.0",
+  "description": "connect xeerpa facebook and google",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kae-montoia/xeerpa_vue.git"
+  },
+  "author": "kae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kae-montoia/xeerpa_vue/issues"
+  },
+  "homepage": "https://github.com/kae-montoia/xeerpa_vue#readme"
+}
